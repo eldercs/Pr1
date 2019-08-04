@@ -1,0 +1,109 @@
+body{
+    background-color:white;
+    overflow-x: hidden;
+}
+.div{
+    min-width:800px;
+}
+.intro{
+    height:250px;
+    background-image:url("Ресурсы/cat_intro2.jpg");
+    background-position: center top;
+    background-size:cover;
+}
+.intro_ogl{
+    top:85px;
+    background-color: rgba(26, 25, 25, 0.3);
+    color:white;
+    padding-bottom:5px;
+    padding-top:5px;
+    text-align: center;
+    position: absolute;
+}
+.type_porod{
+  margin-left:20px;
+   padding-left:30px;
+   margin-bottom: 36px;
+}
+h1{
+    font-size:40px;
+    font-family:'Anonymous Pro';
+}
+h2{
+    font-size:30px;
+    font-family: "CORBEL";
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left:4px;
+}
+.avtor{
+    float:right;
+    width:20%;
+    text-align:right;
+    font-family: "comic sans ms", "CORBEL";
+    height:5555px;
+    background-color:rgb(180, 220, 240);
+  
+}
+button{
+    border: none;
+    outline:none;
+    width: 150px;
+    height:150px;
+    background-color:grey;
+    text-align: center;
+}
+.photo{
+    margin-left: 100px;
+
+}
+.avtor_rare{
+    text-align: left;
+}
+.right_fon{
+    float: right;
+}
+.page-footer{
+    height:250px;
+    width: auto;
+    background-color:grey;
+}
+
+.page-footer_menu{
+
+    background-color: grey;
+    
+}
+.right{
+margin-top:74px;
+    font-size:16px;
+}
+
+p{
+    margin-top:20px;
+    font-size:22px;
+    font-family:"Roboto";
+    margin-bottom:10px;
+}
+p1{
+    font-size:32px;
+    font-family:"CORBEL";
+}
+p.avtor{
+    margin-right:350px;
+    padding:10px;
+    margin-bottom: 30px;    
+}
+p.mist{
+    font-size:32px;
+}
+strong{
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size:24px;
+    font-family:"CORBEL";
+}
+a{
+    font-size:26px;
+    font-family: "comic sans ms";
+}
